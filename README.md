@@ -3,7 +3,7 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 
 Name: Bhanu Chandrika Lakkimsetti ID: 700747439
 
-Code File - NNDL_ICP_5 (Naive Bayes).ipynb, NNDL_ICP_4 (SVM Method).ipynb
+Code File - NNDL_ICP_5 (Naive Bayes).ipynb, NNDL_ICP_5 (SVM Method).ipynb
 
 Document- NNDL_ICP_5.DOCX   Video Link: 
 
