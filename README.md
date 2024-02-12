@@ -5,7 +5,7 @@ Name: Bhanu Chandrika Lakkimsetti ID: 700747439
 
 Code File - NNDL_ICP_5 (Naive Bayes).ipynb, NNDL_ICP_5 (SVM Method).ipynb
 
-Document- NNDL_ICP_5.DOCX   Video Link: 
+Document- NNDL_ICP_5.DOCX   Video Link: https://drive.google.com/file/d/1PEu1Nq_fh4HIzWnSGGCtSgrygR6g2OkZ/view?usp=sharing
 
 1. Naive Bayes
 Implemented Naïve Bayes method using scikit-learn library and dataset available with name glass. 
